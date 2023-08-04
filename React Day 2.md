@@ -1,0 +1,56 @@
+React Day 2
+
+- Component
+    - Functional 
+    - Class
+    - Passing data via props
+    - Make Resuable component
+- Component Hierachy
+    - Passing Properties
+    - Properties is read only,
+- Add Profile Image Component
+    - Add some css
+    - Passing object properties
+        - Passing down data
+    - And Break Down Data
+        - Visual Hierarchy ပေါ်မူတည်ပီး ခွဲထုတ်
+        - Follow SRP(Single Responsible Principle)
+- Component Should be Pure, doesn’t involve state
+- Component Principle
+    - As small as possible
+    - Logical Unit
+    - Reusable
+    - Pure
+    - Follow SRP
+    - Name start with capital Letter
+    - Passing data group data as a object
+- Issuses
+    - ASI (Automatic Semi-column Insection)
+- Export default -> import
+    - Name import
+- JSX 
+    - Can use instant with React.createElement() 
+    - But to readable and declarative, use jsx
+- JSX -> JS+XML -> need self-enclosing tab
+- Write js inside jsx with {}
+- Js expression only
+- Need root fragment
+    - Empty tag
+- Use camelCase all most of the things
+- html to jsx transform
+- JSX can’t render object, should be simple data type
+- Using function as a expression
+- Double curly-braces to pass object
+    - Style div
+- Rationale
+- Property
+    - Read only
+    - Input to component
+    - Multiple property
+    - If same property, convert to object literal
+    - Conversion? -> multiple line
+    - Limit property passing
+    - Object Destructuring parameter
+    - Default property
+    - {…porps}, use spread-operator to pass all property
+    - 
