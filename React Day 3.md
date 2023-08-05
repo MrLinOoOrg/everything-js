@@ -17,4 +17,22 @@ React Day 3
     - not dom event
     - systhetic event
     - passing event handler
-    
+-TODO List Example
+- State
+    - Counter Example
+    - useState
+        - define initial value
+- Naming event handler
+    - should start with on
+- Debug with React Dev Tool
+- Event propagation
+    - Bubbling
+- Stop Propagation
+- preventing default behavior
+- Why State need?
+    - stateful behaviour
+    - Impure component or stateful component
+    - Hook 
+        - a set of special function
+        - should naming conversional
+        
