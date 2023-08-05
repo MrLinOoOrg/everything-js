@@ -13,4 +13,8 @@ React Day 3
 - Side Effects
     - change local variable is okey
 - pure function advendage
-- 
+- On Click Event
+    - not dom event
+    - systhetic event
+    - passing event handler
+    
