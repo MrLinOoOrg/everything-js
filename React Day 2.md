@@ -53,4 +53,10 @@ React Day 2
     - Object Destructuring parameter
     - Default property
     - {…porps}, use spread-operator to pass all property
-    - 
+    - property children
+        - passing jsx component via children
+        - children is array
+        - virtual dom array
+    - HOC (Higher Order Component)
+        - "cost caching concern"
+        -  
